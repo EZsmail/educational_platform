@@ -1,0 +1,8 @@
+.git/
+.venv/
+.DS_Store
+.migrations/
+migrations
+.vscode/
+__pycache__/
+
